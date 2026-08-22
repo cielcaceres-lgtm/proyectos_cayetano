@@ -19,7 +19,7 @@
 
 Somos el **Equipo 04** del curso *Procesos de Innovación (2026-2)*, conformado por un grupo multidisciplinario de estudiantes de la **Universidad Peruana Cayetano Heredia**. Nuestro objetivo principal es integrar la ingeniería, el análisis de datos y la tecnología para concebir soluciones tangibles a problemas reales, aplicando metodologías de diseño centrado en el usuario.
 
-Nos enfocarremos en generar impacto a través de los siguientes **Objetivos de Desarrollo Sostenible (ODS)**:
+Nos enfocaremos en generar impacto a través de los siguientes **Objetivos de Desarrollo Sostenible (ODS)**:
 
 * **ODS 3:** Salud y Bienestar — *Monitoreo y diagnóstico preventivo.*
 * **ODS 9:** Industria, Innovación e Infraestructura — *Desarrollo de tecnología con hardware abierto.*
