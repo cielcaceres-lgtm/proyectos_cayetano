@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #0000FF; font-weight: bold;">
-  Equipo XX - Proyectos para Ingeniería 1
+  Equipo 04 - Proyectos para Ingeniería 1
 </h1>
 
 ## 🌍 Descripción del Equipo
