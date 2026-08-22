@@ -47,5 +47,5 @@ Nos enfocaremos en generar impacto a través de los siguientes **Objetivos de De
 
 ## 📌 Resumen Final
 
-Este repositorio reúne nuestra identidad como equipo, nuestras motivaciones técnicas y la Hoja de Ruta para desarrollar un prototipo funcional durante el ciclo 2026-1. Combinamos rigor académico, creatividad técnica y un compromiso constante con el impacto social.
+Este README reúne nuestra identidad como equipo, nuestras motivaciones técnicas y la Hoja de Ruta para desarrollar un prototipo funcional durante el ciclo 2026-1. Combinamos rigor académico, creatividad técnica y un compromiso constante con el impacto social.
 
