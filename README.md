@@ -1,33 +1,51 @@
-<h1 align="center" style="color: #0000FF; font-weight: bold;">
-  Equipo 04 - Proyectos para Ingeniería 1
-</h1>
+<div align="center">
+
+  <h1 align="center" style="color: #2E6EEF; font-weight: bold;">
+    🚀 Equipo 04 - PROCESOS DE INNOVACION EN INGENIERIA
+  </h1>
+<img src="Imágenes/cayetano.jpg" alt="Universidad Peruana Cayetano Heredia" width="700" />
+
+  <p><b>Facultad de Ciencias e Ingeniería</b><br>
+  <i>Universidad Peruana Cayetano Heredia (UPCH) • 2026-2</i></p>
+
+
+  </p>
+
+</div>
+
+---
 
 ## 🌍 Descripción del Equipo
 
-Somos el Equipo XX del curso Proyectos para Ingeniería 2026-1, conformado por estudiantes de la carrera de [carrera(s) de los integrantes].
-Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
+Somos el **Equipo 04** del curso *Procesos de Innovación (2026-2)*, conformado por un grupo multidisciplinario de estudiantes de la **Universidad Peruana Cayetano Heredia**. Nuestro objetivo principal es integrar la ingeniería, el análisis de datos y la tecnología para concebir soluciones tangibles a problemas reales, aplicando metodologías de diseño centrado en el usuario.
 
-Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
+Nos enfocarremos en generar impacto a través de los siguientes **Objetivos de Desarrollo Sostenible (ODS)**:
 
-- ODS X: [Nombre del ODS]
-- ODS X: [Nombre del ODS]
-- ODS X: [Nombre del ODS]
-- ODS X: [Nombre del ODS]
+* **ODS 3:** Salud y Bienestar — *Monitoreo y diagnóstico preventivo.*
+* **ODS 9:** Industria, Innovación e Infraestructura — *Desarrollo de tecnología con hardware abierto.*
+* **ODS 11:** Ciudades y Comunidades Sostenibles — *Optimización de recursos e impacto local.*
+* **ODS 12:** Producción y Consumo Responsables — *Sostenibilidad de materiales y procesos.*
 
-**Propuestas de proyecto:**
-- [Propuesta de proyecto 1].
-- [Propuesta de proyecto 2].
-- [Propuesta de proyecto 3].
+💡 **Líneas y propuestas de proyecto:**
+* **Sistema de monitoreo ambiental descentralizado:** Red de sensores de bajo costo para control comunitario de variables críticas.
+* **Plataforma de diagnóstico preventivo de salud:** Dispositivo portable para alertas tempranas mediante procesamiento de datos.
+* **Optimización de recursos mediante IoT:** Automatización y gestión eficiente de servicios básicos en entornos urbanos o rurales.
+
+---
 
 ## 👥 Integrantes del Equipo
 
-| Nombre | Rol | Intereses |
-|--------|-----|-----------|
-| [Caceres Tenorio Ciel Jamile] | [Rol dentro del equipo] | [Programación, datos, simulación] |
-| [Castillo Juarez Paolo Yazid] | [Rol dentro del equipo] | [Innovación social, sostenibilidad] |
-| [Callupe Osorio Jezzamine Valeria] | [Rol dentro del equipo] | [Gestión ambiental, desarrollo comunitario] |
-| [Miguel Angel Espiritu Huaman] | [Rol dentro del equipo] | [Comunicación científica, redacción técnica] |
+| Nombre | Rol | Intereses & Especialidad |
+| :--- | :---: | :--- |
+| **Caceres Tenorio Ciel Jamile** | 🔍 Analista de Datos | Programación, arquitectura de software, analítica y simulación. |
+| **Castillo Juarez Paolo Yazid** | 👨‍💻 Gestor Git & Dev | Desarrollo técnico, innovación social y gestión de repositorios. |
+| **Callupe Osorio Jezzamine Valeria** | 🎨 Diseñadora UX/UI | Investigación de usuario, sostenibilidad y gestión ambiental. |
+| **Miguel Angel Espiritu Huaman** | ⚙️ Arquitecto Hardware | Diseño de circuitos, prototipado electrónico e integración técnica. |
+| **David Alejandro Quispe Reyes** | 📄 Lider de Redacción | Redacción técnica, comunicación científica y control de calidad. |
+
+---
 
 ## 📌 Resumen Final
 
-Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
+Este repositorio reúne nuestra identidad como equipo, nuestras motivaciones técnicas y la Hoja de Ruta para desarrollar un prototipo funcional durante el ciclo 2026-1. Combinamos rigor académico, creatividad técnica y un compromiso constante con el impacto social.
+
